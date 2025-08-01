@@ -1,0 +1,13 @@
+<template>
+  <router-view></router-view>
+</template>
+
+<style>
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  color: #e0e0e0; 
+}
+</style>
